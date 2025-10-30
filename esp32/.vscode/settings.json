@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/Users/jung-yechan/esp/v5.5.1/esp-idf",
+  "idf.pythonInstallPath": "/Users/jung-yechan/.pyenv/shims/python",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.port": "/dev/tty.debug-console",
+  "idf.toolsPath": "/Users/jung-yechan/.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  }
+}
